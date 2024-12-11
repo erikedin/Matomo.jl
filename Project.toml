@@ -1,0 +1,4 @@
+name = "Matomo"
+uuid = "86f05ba1-35a2-4d58-ab6a-ea1d309b4bf8"
+authors = ["Erik Edin <erikedin@users.noreply.github.com>"]
+version = "0.1.0"
